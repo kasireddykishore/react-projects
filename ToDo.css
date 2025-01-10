@@ -1,0 +1,45 @@
+.maincontainer{
+    
+    background-color: bisque;
+   
+}
+.inputcon{
+    display: flex;
+    margin: auto;
+    width: 500px;
+    height: 50px;
+   
+}
+
+
+h3{
+    margin: 10px;
+    padding: 10px;
+    margin-left: 34%;
+    color: darkblue;
+}
+input{
+    border-radius: 30px;
+    text-align: center;
+}
+li{
+    margin-top: 3px;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+   
+
+}
+.clearbtn{
+    width: 250px;
+    margin-left: 35%;
+    background-color: rgb(10, 176, 252);
+    border-radius: 10px;
+   
+}
+.edit-container{
+    margin-left: 100px;
+}
+span{
+    margin-top: 3px;
+}

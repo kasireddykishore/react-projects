@@ -1,0 +1,291 @@
+
+  
+
+.header{
+    display: flex;
+    flex-direction:row;
+    margin: auto;
+    gap: 100px;
+    
+    height: 80px;
+    width: 90%;
+    padding: 7px;
+    background-color: white;
+    
+   
+    
+}
+
+.mc{
+    background-color: rgb(232, 247, 241);
+    align-items: center;
+    position: relative;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+.mail{
+    width: 40px;
+    height: 40px;
+    background-color: orange;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+  
+    color: white;
+    border-radius: 50%;
+    font-size: 28px;
+    font-weight: bold;
+
+}
+.selection{
+    margin-top: 5px;
+    border: none;
+}
+option{
+    border: none;
+}
+input{
+    margin-left: 10px;
+    border: none;
+}
+.maincontainer{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    
+}
+.gap{
+    width: 100px;
+}
+.container1{
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+    height: 700px;
+    margin: 5px;
+    
+    
+}
+.container2{
+    width: 550px;
+    height: 900px;
+    margin: 5px;
+    
+}
+.container3{
+    width: 320px;
+    height: 900px;
+    margin: 5px;
+   
+}
+.subc1{
+    width: 300px;
+    height: 210px;
+    background-color: white;
+    margin: 6px;
+    border-radius: 10px;
+    position: relative;
+    padding: 3px;
+}
+.mail2{
+    width: 80px;
+    height: 80px;
+    background-color: orange;
+    text-align: center;
+    margin: 20px;
+    margin-top: 20px;
+    color: white;
+    border-radius: 50%;
+    font-size: 28px;
+    font-weight: bold;
+    border: white 5px solid;
+
+}
+.name{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 3px;
+}
+.subc2{
+    width: 300px;
+    height: 130px;
+    background-color: white;
+    margin: 6px;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 250px; 
+    padding: 7px; 
+}
+.input2{
+    background-color: rgb(181, 179, 179);
+}
+.p2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 3px;
+} 
+.subc3{
+    width: 300px;
+    height: 90px;
+    background-color: white;
+    margin: 6px;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 395px; 
+    padding: 10px; 
+}
+.plus{
+    margin-left: 220px;
+     
+}
+.subc4{
+    width: 300px;
+    height: 130px;
+    background-color: white;
+    margin: 6px;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 510px; 
+    padding: 20px; 
+}
+
+.subc5{
+    width: 500px;
+    height: 260px;
+    background-color: white;
+    margin: 6px;
+    border-radius: 10px;
+    position: relative;
+    padding: 3px;
+    align-items: center;
+}
+.mail3{
+    width: 130px;
+    height: 130px;
+    background-color: orange;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    color: white;
+    border-radius: 50%;
+    font-size: 50px;
+    
+    border: white 5px solid;
+    padding: 25px;
+}
+.text{
+    margin-left: 93px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+}
+.text2{
+    margin-left: 70px;
+    margin-top: -5px; 
+}
+.hiring{
+    border: 1px solid black;
+    background-color: light;
+    color: blue;
+    width: 200px;
+    border-radius: 30px;
+    margin:23px;
+    padding: 5px;
+    text-align: center;
+    margin-top: -8px;
+}
+.hiring1{
+    display: flex;
+    flex-direction: row;
+}
+.subc6{
+    width: 500px;
+    height: 125px;
+    background-color: white;
+    margin: 6px;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 6px; 
+    padding: 10px; 
+}
+.mail4{
+    width: 70px;
+    height: 70px;
+    background-color: orange;
+    text-align: center;
+    margin: 5px;
+
+    color: white;
+    border-radius: 50%;
+    font-size: 28px;
+    padding: 10px;
+    border: white 5px solid;
+}
+.subinput{
+    display: flex;
+    flex-direction: row;
+    margin: 3px;
+}
+.text3{
+    border: 1px solid;
+    border-radius: 30px;
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+}
+.icon{
+    display: flex;
+    float: row;
+}
+.photo{
+    margin: auto;
+    margin-top: 1px;
+}
+.subc7{
+    width: 300px;
+    height: 450px;
+    background-color: white;
+    margin: 6px;
+    border-radius: 10px;
+    position: relative;
+    padding: 3px;
+}
+.selection{
+ border: none;
+}
+.header2{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(142, 217, 192);
+}
+.promote{
+    width: 100px;
+    height: 30px;
+    margin-left: 190px;
+   border: 1px solid;
+   border-radius: 30px;
+   padding: 2px;
+   color: white;
+  background-color: gray
+
+ 
+}
+.image{
+    width: 70px;
+    height: 70px;
+    margin-top: -60px;
+    margin-left: 5px;
+}
+.searchicon{
+    margin-left: -28px;
+    margin-top: 23px;
+}
+.searchbar{
+    width: 300px;
+    
+    margin: 5px;
+    padding: 10px;
+    margin-left: -107px;
+    
+}

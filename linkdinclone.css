@@ -1,0 +1,151 @@
+.logo{
+    width: 50px;
+    height: 50px;
+}
+.profile{
+    width: 50px;
+    height: 50px;
+}
+.profile2{
+    width: 150px;
+    height: 150px;
+    margin-top: 165px;
+}
+.searchicon{
+    height: 50px;
+    border-radius: 50px;
+    width: 50px;
+}
+.container1{
+    display: flex;
+    align-content: space-between;
+}
+.container2 {
+    display: flex;
+    align-items: center;
+    border:  solid #ccc;
+    padding: 10px;
+    width: 590px;
+    height: 300px;
+    margin: 20px auto;
+    background-color: white;
+    border-radius: 30px;
+   
+}
+.info {
+    flex: 1;
+    padding-right: 20px;
+   
+}
+.info h2 {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+}
+.info  {
+    margin: 10px 0 0;
+    font-size: 16px;
+    color: #555;
+}
+.image {
+   margin-right: 100px;
+}
+
+.nareshitimg{
+    width: 150px;
+    height: 150px;
+}
+
+
+
+
+
+
+
+
+h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+
+.container3{
+   
+  
+    border:  solid #ccc;
+    padding: 10px;
+    width: 590px;
+    height: 600px;
+    margin: 0px auto;
+    background-color: white;
+    border-radius: 30px;
+    
+}
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: white; /* To ensure a background for fixed navbars */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.additional-navbar {
+    position: fixed;
+    top: 86px; /* Adjust based on the height of the main navbar */
+    width: 100%;
+    z-index: 999;
+    background-color: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.container2 {
+    margin-top: 165px; /* Adjust based on the combined height of fixed navbars */
+}
+.container5 {
+   
+    border:  solid #ccc;
+    padding: 10px;
+    width: 300px;
+    height: 300px;
+    margin: 30px auto;
+    background-color: white;
+    border-radius: 30px;
+    
+    margin-top: 165px;  
+}
+li{
+    list-style: none;
+}
+
+.image3{
+   
+   
+       
+        padding: 10px;
+        width: 390px;
+        height: 300px;
+        margin: 10px auto;
+       margin-right: 20px;
+        margin-top: 165px;  
+}
+.subcon{
+    display: flex;
+    align-items: center;
+    border: none;
+    padding: 10px;
+    width: 520px;
+    height: 130px;
+    margin: 20px auto;
+    background-color: white;
+    border-radius: 30px; 
+}
+.btns{
+    border-radius: 20px;
+}
+.profileinputs{
+    margin-top: 165px;    
+}

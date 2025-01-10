@@ -1,0 +1,17 @@
+
+.container{
+   width: 85%; 
+   
+}
+.addbtn{
+    margin-left: 450px;
+    margin-top: 25px;
+    
+
+}
+.loding{
+    text-align: center;
+    margin-top: 200px;
+    color: blue;
+    font-size: bold;
+}

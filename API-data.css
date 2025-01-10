@@ -1,0 +1,27 @@
+table{
+    background-color:rgb(245, 245, 245);
+    margin: 10px;
+    width: 100%;
+    border: 1px solid rgb(52, 52, 53);
+}
+td{
+    border: 1px solid gray;
+    margin: 30px;
+    padding: 25px;
+
+}
+.header{
+    border: 1px solid rgb(121, 119, 119);
+   margin: 5px;
+   padding: 10px;
+}
+img{
+    border-radius: 55px;
+}
+.container{
+    border: 1px solid;
+}
+.addbtn{
+    position: absolute;
+    margin-left: 1300px;
+}
